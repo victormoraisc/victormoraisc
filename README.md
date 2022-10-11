@@ -4,7 +4,7 @@ My name is Victor, currently I am a junior developer and my hobby is developing 
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Python, C# and VBA.</strong>
+  🦄 Languages: <strong>Python, C#, JavaScript, Jquery, HTML, CSS and VBA.</strong>
 </p>
 
 <p align="left">
