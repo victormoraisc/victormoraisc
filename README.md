@@ -4,11 +4,11 @@ My name is Victor, currently I am a junior developer and my hobby is developing 
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Python, C#, JavaScript, Jquery, HTML, CSS and VBA.</strong>
+  🦄 Languages: <strong>Javascript, React, Jquery, HTML, CSS, Python, C# and VBA.</strong>
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VSCode, Tabnine.</strong>
+  💼 Tools: <strong>VSCode, Git, Github</strong>
 </p>
 
 <p align="left">
@@ -25,6 +25,6 @@ My name is Victor, currently I am a junior developer and my hobby is developing 
   <a href="https://api.whatsapp.com/send?phone=5562984047644&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.instagram.com/victor.moraisc/" alt="Instagram">
+  <a href="https://www.instagram.com/victorc_morais3/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
