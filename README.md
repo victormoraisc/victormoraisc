@@ -19,7 +19,7 @@ My name is Victor, currently I am a junior developer and my hobby is developing 
   <a href="mailto:victorcarvalho2019@gmail.com?Subject=I%20Have%20Seen%20Your%20Github%20Profile" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="https://www.linkedin.com/in/victor-emanuel-de-morais-5b67331b7/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/victormoraisc/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5562984047644&text=Ol%C3%A1%2C%20vi%20seu%20perfil%20no%20GitHub" alt="WhatsApp">
